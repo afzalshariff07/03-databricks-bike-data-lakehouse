@@ -1,1 +1,33 @@
+# Windows system files
 desktop.ini
+Thumbs.db
+ehthumbs.db
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Databricks
+.databricks/
+
+# Temporary / swap files
+*.tmp
+*.log
+*.swp
+*.swo
